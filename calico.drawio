@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T13:38:32.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="nY-S5BDuTfyI9eh2IytF" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-08T14:53:12.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="BmFGOAAYfHiwIFKoAAYU" version="13.8.8" type="github">
   <diagram id="rU2EVZJRt1pLJ-t33wD5" name="第 1 页">
     <mxGraphModel dx="1422" dy="394" grid="1" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,6 +127,24 @@
         </mxCell>
         <mxCell id="RmMoZj5zxQ0tkyEaWaPj-58" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;192.168.3.1/32&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="795.63" y="510" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RmMoZj5zxQ0tkyEaWaPj-62" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Out IP Header&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1280" width="136" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RmMoZj5zxQ0tkyEaWaPj-63" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&amp;nbsp;IP Header&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1320" width="136" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RmMoZj5zxQ0tkyEaWaPj-64" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;IP Payload&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1360" width="136" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RmMoZj5zxQ0tkyEaWaPj-65" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345.32" y="1320" width="153.37" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RmMoZj5zxQ0tkyEaWaPj-67" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;192.168.3.132&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1290" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RmMoZj5zxQ0tkyEaWaPj-68" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;172.16.215.3&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="497.37" y="1330" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

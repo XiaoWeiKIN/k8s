@@ -2,17 +2,17 @@
 
 ## IO中断原理
 
-[](https://github.com/christophe-liwei/k8s/blob/master/Linux%20IO/%E4%BC%A0%E7%BB%9FIO%E4%B8%AD%E6%96%AD.png)
+![](https://github.com/christophe-liwei/k8s/blob/master/Linux%20IO/%E4%BC%A0%E7%BB%9FIO%E4%B8%AD%E6%96%AD.png)
 
 ## DMA
 
-[](https://github.com/christophe-liwei/k8s/blob/master/Linux%20IO/DMA.png)
+![](https://github.com/christophe-liwei/k8s/blob/master/Linux%20IO/DMA.png)
 
 DMA 可以替换cpu copy，减轻CPU的压力。
 
 ## 传统IO
 
-[](https://github.com/christophe-liwei/k8s/blob/master/Linux%20IO/%E4%BC%A0%E7%BB%9FIO%E5%8E%9F%E7%90%86.png)
+![](https://github.com/christophe-liwei/k8s/blob/master/Linux%20IO/%E4%BC%A0%E7%BB%9FIO%E5%8E%9F%E7%90%86.png)
 
 
 
